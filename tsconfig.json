@@ -1,0 +1,5 @@
+{
+    "compilerOptions": {
+        "lib": ["WebWorker", "ES2015", "DOM"]
+    }
+}
